@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBm7+if47n0=",
+  "success": true,
+  "projectFilePath": "/Users/mateuszpepek/Desktop/Kisiel/Projekt_CSV/ProjektCRUD/ProjektCRUD.csproj",
+  "expectedPackageFiles": [
+    "/Users/mateuszpepek/.nuget/packages/dotnet-curses/2.0.0/dotnet-curses.2.0.0.nupkg.sha512",
+    "/Users/mateuszpepek/.nuget/packages/microsoft.extensions.dependencymodel/8.0.2/microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "/Users/mateuszpepek/.nuget/packages/nstack.core/1.1.1/nstack.core.1.1.1.nupkg.sha512",
+    "/Users/mateuszpepek/.nuget/packages/system.codedom/9.0.4/system.codedom.9.0.4.nupkg.sha512",
+    "/Users/mateuszpepek/.nuget/packages/system.management/9.0.4/system.management.9.0.4.nupkg.sha512",
+    "/Users/mateuszpepek/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/mateuszpepek/.nuget/packages/terminal.gui/1.19.0/terminal.gui.1.19.0.nupkg.sha512"
+  ],
+  "logs": []
+}
